@@ -1,9 +1,4 @@
-este é um repositorio teste
-este é um repositorio teste
+este é um repositorio teste para ver como o Git funciona!
 
-olá
-
-tudo bem
-
-Teste 1234334545
+Git course!
 
